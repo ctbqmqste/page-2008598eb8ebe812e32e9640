@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "e6da317236b1180760ce2bb3",
+  "owner": "ctbqmqste",
+  "repo": "page-2008598eb8ebe812e32e9640",
+  "title": "觅云(MeCloud)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "2008598eb8ebe812e32e9640",
+      "a": "觅云(MeCloud)",
+      "b": "稳定全球clash加速器",
+      "entity": "觅云(MeCloud)",
+      "brand": "觅云(MeCloud)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "127b64cdc7fa6e06e09d07f647e50e00159dc93831078cd810236578181aa8fb",
+      "content": {
+        "primary_entity": "觅云(MeCloud)",
+        "keyword1": "觅云(MeCloud)",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_DESCRIPTION": "，围绕全球线路、设备数量与订阅周期，帮助选择合适套餐。基础版每月100GB流量，支持3台设备；旗舰版每月300GB流量，支持5台设备，含IPLC专线游戏优化；团队版每月1000GB流量，支持20台设备，含VIP专属高带宽节点与企业定制路由。年付可节省两个月费用。",
+          "AI_HERO_SUBTITLE": "觅云全球线路畅连多设备",
+          "AI_HERO_INTRO": "觅云(MeCloud)面向需要全球网络加速的用户，提供从基础到团队的多档Clash订阅方案。根据每月流量、同时在线设备数和线路类型选择，按年付更划算。",
+          "AI_VISUAL_TITLE": "觅云多档订阅按需选择",
+          "AI_HIGHLIGHT_1": "基础版15元/月，100GB流量",
+          "AI_HIGHLIGHT_2": "旗舰版35元/月，含IPLC专线",
+          "AI_HIGHLIGHT_3": "团队版85元/月，1000GB流量",
+          "AI_FEATURES_TITLE": "套餐与设备适配要点",
+          "AI_FEATURES_INTRO": "按设备数量、月流量和订阅周期来匹配套餐，避免浪费或超限。",
+          "AI_FEATURE_TITLE_1": "按设备数选套餐",
+          "AI_FEATURE_TEXT_1": "1至3台设备选基础版，4至5台选旗舰版，6台以上选团队版。",
+          "AI_FEATURE_TITLE_2": "按月流量定档",
+          "AI_FEATURE_TEXT_2": "100GB适合轻度浏览，300GB覆盖日常流媒体，1000GB满足多设备并发。",
+          "AI_FEATURE_TITLE_3": "年付省两月费用",
+          "AI_FEATURE_TEXT_3": "基础版年付150元，旗舰版年付350元，团队版年付850元，均相当于免去两个月月费。",
+          "AI_CLIENTS_TITLE": "客户端选择建议",
+          "AI_CLIENTS_INTRO": "根据设备系统选择对应Clash客户端，导入订阅后即可使用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版适合个人轻量使用，旗舰版适合有流媒体和游戏需求的用户，团队版适合多人共享或企业场景。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_GUIDE_INTRO": "先确认设备数量和月流量，再对照套餐权益，最后按客户端文档导入订阅。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "统计需要同时在线的设备数量，并估算每月流量需求。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "对照套餐的设备数、流量和线路类型，确认是否满足使用场景。",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_STEP_TEXT_3": "在对应Clash客户端中依照文档导入订阅链接，完成节点配置。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐畅连全球",
+          "AI_CLOSING_TEXT": "先确定设备数量与月流量，再挑选合适的觅云订阅方案。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "觅云(MeCloud)的基础版和旗舰版主要差别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备；旗舰版每月 300GB、支持 5 台设备，并带 IPLC 专线游戏加速优化和全节点原生流媒体解锁。",
+          "AI_FAQ_QUESTION_2": "同一账号可以在多台设备上使用吗？",
+          "AI_FAQ_ANSWER_2": "各版本有同时在线设备数限制：基础版 3 台，旗舰版 5 台，团队版 20 台。超出限制时需断开部分设备再连接。",
+          "AI_FAQ_QUESTION_3": "年付比月付能省多少？",
+          "AI_FAQ_ANSWER_3": "基础版月付 ¥15/月，按年付仅需 ¥150/年；旗舰版月付 ¥35/月，按年付仅需 ¥350/年；团队版月付 ¥85/月，按年付仅需 ¥850/年。",
+          "AI_FAQ_QUESTION_4": "团队版适合哪些使用场景？",
+          "AI_FAQ_ANSWER_4": "团队版每月 1000GB、支持 20 台设备，并带 VIP 专属高带宽节点、企业定制路由和专属客户经理服务，适合小团队或企业统一配置。",
+          "AI_FAQ_QUESTION_5": "配置订阅需要准备什么？",
+          "AI_FAQ_ANSWER_5": "准备好可用设备与对应客户端，按客户端文档导入订阅地址即可。不同系统支持的客户端不同，建议分别查看适配说明。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "datouxiansheng.cn",
+    "host": "datouxiansheng.cn"
+  },
+  "file_hashes": {
+    "index.html": "9f2c5ee75325cbeaad12f95dd1d9c1fecac1a454615e4e39b89f6c8c5d811254",
+    "sitemap.xml": "a6616779c30b4c13066dddb710cf016014a7b2ee94aeecf5ef33e9cae1b1ccb2",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9272fda2a2a7ef8c1cadb8b5c76401b1c05195a7ab587ec3a852752fe043bf13",
+    "robots.txt": "84e804454de1ed9517b83a0959e3a7d4b4419c81ac9c278dfa180f4b637876d8",
+    "01d7327900c2851434b63456da1479a7.txt": "2d93c822ec51d34b6b13951370e1d9cb0058ed1e2d42051e8022ad543902c997"
+  },
+  "revision": "735bf05dcf95a8249fead1e07a692b14f79fc39c8dfd178cdb046048682d27b8"
+}
